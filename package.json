@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/ackuser/rxjs#readme",
   "dependencies": {
-    "rxjs": "^5.4.3"
+    "rxjs": "^5.4.3",
+    "xhr2": "^0.1.4"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
