@@ -1,0 +1,26 @@
+{
+  "name": "rxjs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackuser/rxjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ackuser/rxjs/issues"
+  },
+  "homepage": "https://github.com/ackuser/rxjs#readme",
+  "dependencies": {
+    "rxjs": "^5.4.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
